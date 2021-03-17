@@ -5,16 +5,6 @@
     <link>https://andrewanchen.github.io/series/</link>
     <description>Recent content in Series on Introduction</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 25 Jul 2020 02:04:06 -0500</lastBuildDate><atom:link href="https://andrewanchen.github.io/series/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>quickstart</title>
-      <link>https://andrewanchen.github.io/series/quickstart/</link>
-      <pubDate>Sat, 25 Jul 2020 02:04:06 -0500</pubDate>
-      
-      <guid>https://andrewanchen.github.io/series/quickstart/</guid>
-      <description></description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://andrewanchen.github.io/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
