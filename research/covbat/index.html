@@ -10,21 +10,23 @@
 <meta name="referrer" content="no-referrer">
 <meta name="description" content="Website Description">
 <title>
-Covariance Harmonization - Andrew An Chen
+ - Andrew An Chen
 </title>
 
 
 
         
-        <meta property="og:title" content="Covariance Harmonization - Andrew An Chen" />
+        <meta property="og:title" content=" - Andrew An Chen" />
 <meta property="og:type" content="website" />
 <meta property="og:description" content="Website Description"/>
-<meta property="og:url" content="https://andrewanchen.github.io/projects_wip/covbat/"/>
+<meta property="og:url" content="https://andrewanchen.github.io/research/covbat/"/>
 <meta property="og:site_name" content="Andrew An Chen"/>
 
 
 
-<meta property="og:image" content="https://andrewanchen.github.io/projects_wip/covbat/CovBat_Figure1.png"/>
+
+<meta property="og:image" content="https://andrewanchen.github.io/home/profile.jpeg"/>
+
 
 
 
@@ -38,7 +40,7 @@ Covariance Harmonization - Andrew An Chen
 
 
 
-<link rel="stylesheet" href="/css/main.min.59bed38eb8b593bbdd614581b6e665272d3aed303a89c07151512389951b921d.css" integrity="sha256-Wb7Tjri1k7vdYUWBtuZlJy067TA6icBxUVEjiZUbkh0=" crossorigin="anonymous" media="screen">
+<link rel="stylesheet" href="/css/main.min.dd007b91341d17aa49cc72a183bd5abeb74ba1d1babc0424f43d9d1c1becc519.css" integrity="sha256-3QB7kTQdF6pJzHKhg71avrdLodG6vAQk9D2dHBvsxRk=" crossorigin="anonymous" media="screen">
 
 
 
@@ -54,7 +56,7 @@ Covariance Harmonization - Andrew An Chen
             
             <div class="container hero ">
                 
-                <h1 class="bold-title is-1">Covariance Harmonization</h1>
+                <h1 class="bold-title is-1"></h1>
                 
             </div>
             
@@ -95,7 +97,7 @@ Covariance Harmonization - Andrew An Chen
             
             
             
-            <a class="navbar-item" href="/#publications">Publications</a>
+            <a class="navbar-item" href="/#research">Research</a>
             
             
             
@@ -134,6 +136,10 @@ Covariance Harmonization - Andrew An Chen
 
 <h3 id="abstract" class="anchor-link"><a href="#abstract">Abstract</a></h3>
 <p>To acquire larger samples for answering complex questions in neuroscience, researchers have increasingly turned to multi-site neuroimaging studies. However, these studies are hindered by differences in images acquired across multiple sites. These effects have been shown to bias comparison between sites, mask biologically meaningful associations, and even introduce spurious associations. To address this, the field has focused on harmonizing data by removing site-related effects in the mean and variance of measurements. Contemporaneously with the increase in popularity of multi-center imaging, the use of machine learning (ML) in neuroimaging has also become commonplace. These approaches have been shown to provide improved sensitivity, specificity, and power due to their modeling the joint relationship across measurements in the brain. In this work, we demonstrate that methods for removing site effects in mean and variance may not be sufficient for ML. This stems from the fact that such methods fail to address how correlations between measurements can vary across sites. Data from the Alzheimer&rsquo;s Disease Neuroimaging Initiative is used to show that considerable differences in covariance exist across sites and that popular harmonization techniques do not address this issue. We then propose a novel harmonization method called Correcting Covariance Batch Effects (CovBat) that removes site effects in mean, variance, and covariance. We apply CovBat and show that within-site correlation matrices are successfully harmonized. Furthermore, we find that ML methods are unable to distinguish scanner manufacturer after our proposed harmonization is applied, and that the CovBat-harmonized data retain accurate prediction of disease group.</p>
+<figure>
+    <img src="/fig/CovBat_Figure1.png" width="75%"/> 
+</figure>
+
 
     </div>
     

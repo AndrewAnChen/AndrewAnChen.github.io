@@ -2,26 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research on Andrew An Chen</title>
-    <link>https://andrewanchen.github.io/projects_wip/</link>
+    <link>https://andrewanchen.github.io/research/</link>
     <description>Recent content in Research on Andrew An Chen</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://andrewanchen.github.io/projects_wip/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://andrewanchen.github.io/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Covariance Harmonization</title>
-      <link>https://andrewanchen.github.io/projects_wip/covbat/</link>
+      <title></title>
+      <link>https://andrewanchen.github.io/research/covbat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://andrewanchen.github.io/projects_wip/covbat/</guid>
+      <guid>https://andrewanchen.github.io/research/covbat/</guid>
       <description>Mitigating Site Effects in Covariance for Machine Learning in Neuroimaging Data Keywords Harmonization; Multi-site analysis; Site effect; Covariance; Cortical thickness; ComBat
 Abstract To acquire larger samples for answering complex questions in neuroscience, researchers have increasingly turned to multi-site neuroimaging studies. However, these studies are hindered by differences in images acquired across multiple sites. These effects have been shown to bias comparison between sites, mask biologically meaningful associations, and even introduce spurious associations.</description>
     </item>
     
     <item>
-      <title>Functional Connectivity Harmonization</title>
-      <link>https://andrewanchen.github.io/projects_wip/fccovbat/</link>
+      <title></title>
+      <link>https://andrewanchen.github.io/research/dcombat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://andrewanchen.github.io/projects_wip/fccovbat/</guid>
+      <guid>https://andrewanchen.github.io/research/dcombat/</guid>
+      <description>Privacy-Preserving Harmonization via Distributed ComBat Keywords Harmonization; Distributed analysis; Site effect; ComBat; Privacy-preserving
+Abstract Challenges in clinical data sharing and the need to protect data privacy have led to the development and popularization of methods that do not require directly transferring patient data. In neuroimaging, integration of data across multiple institutions also introduces unwanted biases driven by scanner differences. These scanner effects have been shown by several research groups to severely affect downstream analyses.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://andrewanchen.github.io/research/fccovbat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewanchen.github.io/research/fccovbat/</guid>
       <description>Harmonizing Functional Connectivity Reduces Scanner Effects in Community Detection Keywords Harmonization; Functional connectivity; Site effects; Community detection; Brain networks; Network analyses
 Abstract Community detection on graphs constructed from functional magnetic resonance imaging (fMRI) data has led to important insights into brain functional organization. Large studies of brain community structure often include images acquired on multiple scanners across different studies. Differences in scanner can introduce variability into the downstream results, and these differences are often referred to as scanner effects.</description>
     </item>
