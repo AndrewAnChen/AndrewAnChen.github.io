@@ -10,23 +10,21 @@
 <meta name="referrer" content="no-referrer">
 <meta name="description" content="Website Description">
 <title>
-Blog - Introduction
+Covariance Harmonization - Andrew An Chen
 </title>
 
-<link href="/blog/index.xml" rel="alternate" type="application/rss+xml" title="Introduction" />
+
 
         
-        <meta property="og:title" content="Blog - Introduction" />
+        <meta property="og:title" content="Covariance Harmonization - Andrew An Chen" />
 <meta property="og:type" content="website" />
 <meta property="og:description" content="Website Description"/>
-<meta property="og:url" content="https://andrewanchen.github.io/blog/"/>
-<meta property="og:site_name" content="Introduction"/>
+<meta property="og:url" content="https://andrewanchen.github.io/projects_wip/covbat/"/>
+<meta property="og:site_name" content="Andrew An Chen"/>
 
 
 
-
-<meta property="og:image" content="https://andrewanchen.github.io/home/profile.jpg"/>
-
+<meta property="og:image" content="https://andrewanchen.github.io/projects_wip/covbat/CovBat_Figure1.png"/>
 
 
 
@@ -56,7 +54,7 @@ Blog - Introduction
             
             <div class="container hero ">
                 
-                <h1 class="bold-title is-1">Blog</h1>
+                <h1 class="bold-title is-1">Covariance Harmonization</h1>
                 
             </div>
             
@@ -83,11 +81,7 @@ Blog - Introduction
             
 
             
-                
-            
 
-            
-                
             
 
             
@@ -107,29 +101,7 @@ Blog - Introduction
             
             
             
-                
-                
-                
-                
-                  <a class="navbar-item" href="https://andrewanchen.github.io/projects/">
-                  
-                  
-                  Projects
-                  
-                  
-                  </a>
-                
-                
-            
-            
-            
-            
-            
-                
-                
-                
-                
-                
+            <a class="navbar-item" href="/#cv">CV</a>
             
             
             
@@ -154,24 +126,19 @@ Blog - Introduction
 
                 
     <div class="container markdown top-pad">
-        <p>Here is some introduction text for my blog. You can set this text in the <code>/blog/_index.md</code> file. This page uses the <code>/layouts/blog/list.html</code> template.</p>
+        
+<h2 id="mitigating-site-effects-in-covariance-for-machine-learning-in-neuroimaging-data" class="anchor-link"><a href="#mitigating-site-effects-in-covariance-for-machine-learning-in-neuroimaging-data">Mitigating Site Effects in Covariance for Machine Learning in Neuroimaging Data</a></h2>
+
+<h3 id="keywords" class="anchor-link"><a href="#keywords">Keywords</a></h3>
+<p>Harmonization; Multi-site analysis; Site effect; Covariance; Cortical thickness; ComBat</p>
+
+<h3 id="abstract" class="anchor-link"><a href="#abstract">Abstract</a></h3>
+<p>To acquire larger samples for answering complex questions in neuroscience, researchers have increasingly turned to multi-site neuroimaging studies. However, these studies are hindered by differences in images acquired across multiple sites. These effects have been shown to bias comparison between sites, mask biologically meaningful associations, and even introduce spurious associations. To address this, the field has focused on harmonizing data by removing site-related effects in the mean and variance of measurements. Contemporaneously with the increase in popularity of multi-center imaging, the use of machine learning (ML) in neuroimaging has also become commonplace. These approaches have been shown to provide improved sensitivity, specificity, and power due to their modeling the joint relationship across measurements in the brain. In this work, we demonstrate that methods for removing site effects in mean and variance may not be sufficient for ML. This stems from the fact that such methods fail to address how correlations between measurements can vary across sites. Data from the Alzheimer&rsquo;s Disease Neuroimaging Initiative is used to show that considerable differences in covariance exist across sites and that popular harmonization techniques do not address this issue. We then propose a novel harmonization method called Correcting Covariance Batch Effects (CovBat) that removes site effects in mean, variance, and covariance. We apply CovBat and show that within-site correlation matrices are successfully harmonized. Furthermore, we find that ML methods are unable to distinguish scanner manufacturer after our proposed harmonization is applied, and that the CovBat-harmonized data retain accurate prediction of disease group.</p>
 
     </div>
-    <div class="container">
-        
-        <h2 class="title is-2 top-pad">Latest Post</h2>
-            
-        
-        <h2 class="title is-2 top-pad">All Posts</h2>
-        
-            <section>
-   
-  
+    
+    
 
-     
-</section>
-        
-    </div>
 
 
                 
@@ -207,6 +174,17 @@ Blog - Introduction
 
 <script src="https://andrewanchen.github.io/js/bundle.f1741e9868b2f697e71cf8fccfcc12166540999b3d36f8fb9edd0882ba425d55.js" integrity="sha256-8XQemGiy9pfnHPj8z8wSFmVAmZs9Nvj7nt0IgrpCXVU="></script>
 
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', '3077073092', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
 
 
 

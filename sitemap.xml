@@ -2,11 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://andrewanchen.github.io/projects/</loc>
-  </url><url>
-    <loc>https://andrewanchen.github.io/blog/</loc>
+    <loc>https://andrewanchen.github.io/projects_wip/</loc>
   </url><url>
     <loc>https://andrewanchen.github.io/</loc>
+  </url><url>
+    <loc>https://andrewanchen.github.io/projects_wip/covbat/</loc>
+  </url><url>
+    <loc>https://andrewanchen.github.io/projects_wip/fccovbat/</loc>
   </url><url>
     <loc>https://andrewanchen.github.io/series/</loc>
   </url><url>

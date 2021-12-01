@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Andrew An Chen</title>
-    <link>https://andrewanchen.github.io/</link>
-    <description>Recent content on Andrew An Chen</description>
+    <title>Research on Andrew An Chen</title>
+    <link>https://andrewanchen.github.io/projects_wip/</link>
+    <description>Recent content in Research on Andrew An Chen</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://andrewanchen.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://andrewanchen.github.io/projects_wip/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Covariance Harmonization</title>
       <link>https://andrewanchen.github.io/projects_wip/covbat/</link>
