@@ -12,7 +12,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://andrewanchen.github.io/research/covbat/</guid>
-      <description>Mitigating Site Effects in Covariance for Machine Learning in Neuroimaging Data Keywords Harmonization; Multi-site analysis; Site effect; Covariance; Cortical thickness; ComBat
+      <description>Mitigating Site Effects in Covariance for Machine Learning in Neuroimaging Data Accepted at Human Brain Mapping. Preprint available at https://doi.org/10.1101/858415
+Keywords Harmonization; Multi-site analysis; Site effect; Covariance; Cortical thickness; ComBat
 Abstract To acquire larger samples for answering complex questions in neuroscience, researchers have increasingly turned to multi-site neuroimaging studies. However, these studies are hindered by differences in images acquired across multiple sites. These effects have been shown to bias comparison between sites, mask biologically meaningful associations, and even introduce spurious associations.</description>
     </item>
     
@@ -22,7 +23,8 @@ Abstract To acquire larger samples for answering complex questions in neuroscien
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://andrewanchen.github.io/research/dcombat/</guid>
-      <description>Privacy-Preserving Harmonization via Distributed ComBat Keywords Harmonization; Distributed analysis; Site effect; ComBat; Privacy-preserving
+      <description>Privacy-Preserving Harmonization via Distributed ComBat Under review. Preprint available at https://doi.org/10.1101/2021.07.30.454516
+Keywords Harmonization; Distributed analysis; Site effect; ComBat; Privacy-preserving
 Abstract Challenges in clinical data sharing and the need to protect data privacy have led to the development and popularization of methods that do not require directly transferring patient data. In neuroimaging, integration of data across multiple institutions also introduces unwanted biases driven by scanner differences. These scanner effects have been shown by several research groups to severely affect downstream analyses.</description>
     </item>
     
