@@ -12,7 +12,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://andrewanchen.github.io/research/covbat/</guid>
-      <description>Mitigating Site Effects in Covariance for Machine Learning in Neuroimaging Data Accepted at Human Brain Mapping. Available online at https://onlinelibrary-wiley-com.proxy.library.upenn.edu/doi/full/10.1002/hbm.25688
+      <description>Mitigating Site Effects in Covariance for Machine Learning in Neuroimaging Data Accepted at Human Brain Mapping. Available online at https://onlinelibrary.wiley.com/doi/10.1002/hbm.25688
 Keywords Harmonization; Multi-site analysis; Site effect; Covariance; Cortical thickness; ComBat
 Abstract To acquire larger samples for answering complex questions in neuroscience, researchers have increasingly turned to multi-site neuroimaging studies. However, these studies are hindered by differences in images acquired across multiple sites. These effects have been shown to bias comparison between sites, mask biologically meaningful associations, and even introduce spurious associations.</description>
     </item>
