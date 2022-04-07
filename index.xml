@@ -25,7 +25,7 @@ Abstract To acquire larger samples for answering complex questions in neuroscien
       
       <guid>https://andrewanchen.github.io/research/dcombat/</guid>
       <description>Privacy-Preserving Harmonization via Distributed ComBat Accepted at NeuroImage. Available online at https://doi.org/10.1016/j.neuroimage.2021.118822.
-Implementation in R available at https://github.com/andy1764/Distributed-ComBat.
+Implementation in R available at https://github.com/andy1764/Distributed-ComBat and Python available at https://github.com/Terf/neuroCombat.
 Keywords Harmonization; Distributed analysis; Site effect; ComBat; Privacy-preserving
 Abstract Challenges in clinical data sharing and the need to protect data privacy have led to the development and popularization of methods that do not require directly transferring patient data. In neuroimaging, integration of data across multiple institutions also introduces unwanted biases driven by scanner differences.</description>
     </item>
