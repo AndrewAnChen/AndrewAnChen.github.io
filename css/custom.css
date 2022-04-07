@@ -1,0 +1,17 @@
+.wrapper {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: center;
+}
+.wrapper > div {
+  flex: 0 0 300px;
+}
+
+.wrapper img
+{
+  height: 40vh;
+  object-fit: contain;
+  background-color: white;
+}
