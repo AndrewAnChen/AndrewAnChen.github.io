@@ -6,12 +6,12 @@
   justify-content: center;
 }
 .wrapper > div {
-  flex: 0 0 300px;
+  flex: 0 0 333px;
 }
 
 .wrapper img
 {
-  height: 40vh;
+  height: 290px;
   object-fit: contain;
   background-color: white;
 }
