@@ -1,0 +1,33 @@
+---
+title: "Andrew An Chen"
+about:
+  template: broadside
+  image: static/profile.jpeg
+  links:
+    - icon: github
+      href: https://github.com/andy1764/
+    - icon: twitter
+      href: https://twitter.com/Andrew_AChen
+    - icon: linkedin
+      href: https://www.linkedin.com/in/andrew-chen-960825179/
+    - icon: envelope-fill
+      href: "mailto: chen.andrew.an@gmail.com"
+navbar: false
+---
+
+**Assistant Professor in Biostatistics**  
+**Medical University of South Carolina**
+
+##### Research Interests
+
+Imaging statistics, statistical harmonization, network analysis, distributed data analysis, nonparametric statistics
+
+##### Applied Areas
+
+Structural magnetic resonance imaging (MRI), functional MRI, diffusion tensor MRI, transcriptomics, electronic health records, wearable device data
+
+
+[View my publications](https://scholar.google.com/citations?user=4Zp2TCwAAAAJ&hl=en&oi=ao)
+
+
+[Download my CV](static/Andrew_Chen_CV.pdf)

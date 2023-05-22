@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Andrew An Chen"
+  back-to-top-navigation: true
+  google-analytics: "G-85L0ZTT99D"
+  page-footer:
+    center: "Contact me at [chen.andrew.an@gmail.com](mailto:chen.andrew.an@gmail.com)"
+
+format:
+  html:
+    theme: lumen
+    css: styles.css
+
+editor: visual
+
+search: false
