@@ -15,7 +15,7 @@ about:
 navbar: false
 ---
 
-**Assistant Professor in Biostatistics**  
+**Assistant Professor of Biostatistics**\
 **Medical University of South Carolina**
 
 ##### Research Interests
@@ -26,8 +26,6 @@ Imaging statistics, statistical harmonization, network analysis, distributed dat
 
 Structural magnetic resonance imaging (MRI), functional MRI, diffusion tensor MRI, transcriptomics, electronic health records, wearable device data
 
-
 [View my publications](https://scholar.google.com/citations?user=4Zp2TCwAAAAJ&hl=en&oi=ao)
-
 
 [Download my CV](static/Andrew_Chen_CV.pdf)
