@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Andrew An Chen"
+  favicon: static/prairie_dog.png
   back-to-top-navigation: true
   google-analytics: "G-85L0ZTT99D"
   page-footer:
