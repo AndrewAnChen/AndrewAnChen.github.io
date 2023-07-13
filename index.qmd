@@ -11,7 +11,7 @@ about:
     - icon: linkedin
       href: https://www.linkedin.com/in/andrew-chen-960825179/
     - icon: envelope-fill
-      href: "mailto: chen.andrew.an@gmail.com"
+      href: "mailto: chenandr@musc.edu"
 navbar: false
 ---
 
